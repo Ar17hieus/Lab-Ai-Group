@@ -393,15 +393,21 @@
 "Assets/Environment/PostProcessing/Runtime/Utils/MaterialFactory.cs"
 "Assets/Environment/PostProcessing/Runtime/Utils/RenderTextureFactory.cs"
 "Assets/Environment/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
+"Assets/EquipmentManager.cs"
 "Assets/Interactable.cs"
 "Assets/PlayerAnimator.cs"
 "Assets/PlayerControl.cs"
 "Assets/PlayerMotor.cs"
+"Assets/Scripts/Helper/ConvertToRegularMesh.cs"
 "Assets/Scripts/Inventory/Inventory.cs"
 "Assets/Scripts/Inventory/InventorySlot.cs"
 "Assets/Scripts/Inventory/InventoryUI.cs"
+"Assets/Scripts/Items/Equipment.cs"
 "Assets/Scripts/Items/Item.cs"
 "Assets/Scripts/Items/ItemPickup.cs"
+"Assets/Scripts/Stats/CharacterStats.cs"
+"Assets/Scripts/Stats/PlayerStats.cs"
+"Assets/Scripts/Stats/Stat.cs"
 -langversion:9.0
 
 /deterministic
